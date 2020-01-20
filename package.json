@@ -16,7 +16,7 @@
     "react-grid-layout": "^0.17.1",
     "react-grid-layout-2": "^0.10.6",
     "react-plotly.js": "^2.4.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
